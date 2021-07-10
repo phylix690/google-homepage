@@ -1,0 +1,1 @@
+Working through the Odin Project curriculum and this happens to be my first project. This project is a non-functional Google homepage which was made using HTML and CSS only. I look forward to advancing its functionality over the course of time as I develop on my skill set.
